@@ -1,0 +1,10 @@
+numpy
+matplotlib
+scikit-image
+scipy
+opencv-python
+streamlit
+pillow
+fastapi
+uvicorn[standard]
+sqlalchemy
